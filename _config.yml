@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'jjh's Pages'
-description:	       '初级程序员学习之路'
+description:	       'Test'
 author:              'jjh_1'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
